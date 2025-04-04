@@ -20,61 +20,65 @@
 		<data>
 		Ypa3eOSDMZhNQYpPfxpM2uMvD0k=
 		</data>
-		<key>Headers/NielsenTVAppApi-Swift.h</key>
+		<key>Headers/NielsenVisionAppApi-Swift.h</key>
 		<data>
-		NvvYZlZn1ttb3Y4wOPXlCpPYg3Y=
+		zZcYQ7AUKGQDC51GCj0cXaGzmow=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+F+y4U6+SsZjD6Cb93EVF4o7UH4=
+		kouczZZwJQ1PJ+IRHLT5UYvmFoY=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		4vQWkcpgeAb7K09Z+OQgWGQ8ZeI=
+		wspJTOaztbehwKYLTAmuGOqrtwk=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		uLsgOAjBNgLdd4Sm4Z+Y8Bn7HVY=
+		cD+7U8eYoZTvUiijZQGNJ6gidJ8=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		RzZpVgr3BCzLoQ5WKnI1qCMRQgo=
+		H1E/TODRaJJ88ss09BbDoOBdTIo=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		uLsgOAjBNgLdd4Sm4Z+Y8Bn7HVY=
+		cD+7U8eYoZTvUiijZQGNJ6gidJ8=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		0e+NEbWgSgs13fDVfOhWRdUAUDY=
+		VYc4EZ0J1U4tq1+AhNyR8NBUF90=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		4vQWkcpgeAb7K09Z+OQgWGQ8ZeI=
+		wspJTOaztbehwKYLTAmuGOqrtwk=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		3T8wVbpnrnQ+l3ONDZTX65UNBXM=
+		X3iKBhi9dd1x2On/mHyvAE4GjYw=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		597dFs6wIljJ3Mdze06KoUa3s+I=
+		aVFfRi6/eGwZurbXkFuUqq8itcA=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		3T8wVbpnrnQ+l3ONDZTX65UNBXM=
+		X3iKBhi9dd1x2On/mHyvAE4GjYw=
 		</data>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		uAIQsSw91oB9WMlrdymW4Xz2Wfk=
+		yPmw1mTdQV37RaWzGsxoXuMj7jY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		rYchmbeJC5/3dD3eGDVe59+W7VU=
+		31skntqgDmeFRdPWaIWR/9MGWXw=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
 		XUtdizd01GUt5TmJDlbXm6WdGLQ=
+		</data>
+		<key>PrivateHeaders/NielsenVisionAppApi.h</key>
+		<data>
+		uVerThI4zA7Uzc0ejSi5bvzJixs=
 		</data>
 		<key>PrivateHeaders/NlsApiWorker.h</key>
 		<data>
@@ -175,88 +179,88 @@
 			rn+BPZULHtDH2DUKGuGsWF8r8bayuLEkqxfZUgBYtUE=
 			</data>
 		</dict>
-		<key>Headers/NielsenTVAppApi-Swift.h</key>
+		<key>Headers/NielsenVisionAppApi-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y8jgUwtN0H2ZbYsyIvnndNlyFJuLBpp1ETiS4p8W1ro=
+			Kv0esHPt1+CKOSMbWxgVJNH5puoLd1XJyjXcouupUAk=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DiDoruIWhcnT6BWmjQXbe+51KqWC8j2dgdxAv7zviuM=
+			ik7U4UeCO8Q61EVCfUWBDHOf3mqsgK4r8BCT1Fib3rQ=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z2XfoKFCRoq6lBEEvx1pn8UcKsZj3xysr549jALrxa8=
+			s+rZaRZNdAftyVqqGb8N6rdWBsXfweNaoEpRK8WP9Mc=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sw2+ecHqWaaIZvU9nxOEUQ/aM4dHbFieayBpeNX9v/U=
+			J4eI1Uf8kemKKvO0xysIODbArSKJ3lHZYvyQIm78T5c=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z2XfoKFCRoq6lBEEvx1pn8UcKsZj3xysr549jALrxa8=
+			s+rZaRZNdAftyVqqGb8N6rdWBsXfweNaoEpRK8WP9Mc=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oJEE2ncgvu7GootL7MJ9jMnrUVFtHpNe66UfkDvMw+Y=
+			HciByoUD9gIoKU3P/hFmb4tNuYOjJwMdwidDOZwoDqE=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DiDoruIWhcnT6BWmjQXbe+51KqWC8j2dgdxAv7zviuM=
+			ik7U4UeCO8Q61EVCfUWBDHOf3mqsgK4r8BCT1Fib3rQ=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T62M6dQLDOzrKmTZjqtSQeWFUCpb3OaukmY37pmJ4Mw=
+			yjXk9JetJmOQIB4kLADBLPDPubC8pCm3QaGIvc+C//U=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Hf7274LUNQWNV7ttuSvscoqLu49QoH0PJzaTuU2NIE=
+			/A8WIBzHsAdfHxHkVoVtCJSh9MpAJVTQ72yJpWNG85Y=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T62M6dQLDOzrKmTZjqtSQeWFUCpb3OaukmY37pmJ4Mw=
+			yjXk9JetJmOQIB4kLADBLPDPubC8pCm3QaGIvc+C//U=
 			</data>
 		</dict>
-		<key>Modules/NielsenTVAppApi.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qEygnhwW5ZDJpJUOvGn3ex0WduFvk56WCAMwKhM4/AI=
+			CTMz34POEIrC8AgoxYFK3byhlcpSj+SLMBjGOpu0u/w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pNmVTVbQHqL4XKv+gESsnnk0W7hEw9OzzTFNeiyMM+c=
+			YPpcVujgvlcbkXiP/61sjPaEUzAr/FSc2oRBlXBtNEg=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
@@ -264,6 +268,13 @@
 			<key>hash2</key>
 			<data>
 			N6f9j0lqlYforiC82c0sg7V8OQlzi93dpM1wlZI3hAQ=
+			</data>
+		</dict>
+		<key>PrivateHeaders/NielsenVisionAppApi.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fKYVRcB7L47c/pK6vLZZHvpJ1NlqyecwjhlBNbO2Ies=
 			</data>
 		</dict>
 		<key>PrivateHeaders/NlsApiWorker.h</key>
